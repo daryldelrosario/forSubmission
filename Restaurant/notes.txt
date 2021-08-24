@@ -1,0 +1,15 @@
+Creator: Daryl del Rosario
+Date Created: Friday, August 13, 2021 @ 12:59pm
+Date Last Modified: 
+
+Color Scheme for Restaurant Assessment: Introduction to Web Development
+https://www.w3schools.com/colors/colors_analogous.asp
+
+Header Background: #fb9902
+Body Background: #f7e0d4
+Footer Background: #342b09
+
+Thematic Text: #fc600a
+Icon Colors: #fccb1a
+
+
